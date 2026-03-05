@@ -91,7 +91,7 @@ export default function App() {
             className="mb-8 relative w-40 h-40 md:w-52 md:h-52 rounded-full p-1 bg-gradient-to-tr from-blue-600 to-cyan-400 shadow-2xl shadow-blue-500/20"
           >
             <div className="w-full h-full bg-[#020617] rounded-full overflow-hidden border-4 border-[#020617]">
-               <img src="/profile.png" alt="Jean Lima" className="w-full h-full object-cover" />
+               <img src="profile.png" alt="Jean Lima" className="w-full h-full object-cover" />
             </div>
           </motion.div>
 
